@@ -4,6 +4,7 @@ routin my router til i rout all over the firewalls
 - **Programming Languages**:
     
     [![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+    [![Python](https://img.shields.io/badge/x86Assembly%20-%2314354C.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/X86_assembly_language)
 
 - **Python Libraries**:
     
